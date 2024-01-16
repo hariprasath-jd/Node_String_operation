@@ -1,0 +1,25 @@
+{
+  "name": "string-oprations",
+  "version": "1.0.0",
+  "description": "This Package has some default string operations in default",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariprasath-jd/Node_String_operation.git"
+  },
+  "keywords": [
+    "node_string_operations"
+  ],
+  "author": "Hari Prasath",
+  "license": "MIT",
+  "bin": {
+    "so": "./string-operation.js"
+  },
+  "bugs": {
+    "url": "https://github.com/hariprasath-jd/Node_String_operation/issues"
+  },
+  "homepage": "https://github.com/hariprasath-jd/Node_String_operation#readme"
+}
